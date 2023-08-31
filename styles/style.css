@@ -1,0 +1,62 @@
+.{
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+.banner{
+    width: 1400px;
+    height: 800px;
+}
+.text-position{
+    position: absolute;
+    top: 120px;
+    right: 14px;
+    color: white;
+}
+.nav-title{
+    width: 528px;
+    text-align: right;
+    font-size: 65px;
+    margin-right: 5px;
+    gap: 24px;
+}
+.nav-description{
+    width: 425px;
+    font-size: 15px;
+    text-align: right;
+    margin-right: 100px;
+    gap: 32px;
+}
+.btn-primary{
+    width: 160px;
+    height: 64px;
+    border-radius: 5px;
+    background-color: white;
+
+    width: 160px;
+    height: 64px;
+    color: blue;
+    font-size: 15px;
+    font-weight: 600px;
+}
+.person{
+    margin-top: 180px;
+}
+
+.main-title{
+    color: black;
+    width: 288px;
+    font-size: 40px;
+    font-weight: 700px;
+    gap: 24px;
+}
+.main-description{
+    width: 416px;
+    font-size: 16px;
+    font-weight: 400px;
+    color: black;
+}
+.plan-sub-title{
+    font-size: 35px;
+    text-align: center;
+    margin-top: 150px;
+}
