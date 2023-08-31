@@ -90,7 +90,8 @@
     width: 1100px;
     background-size: cover;
     border-radius: 8px;
-    background-image: url(../images/watch.png)
+    background-image: url(../images/watch.png);
+  
 }
 .positive{
     position: absolute;
@@ -100,4 +101,68 @@
     color:white;
     font-size: 50px;
     width: 450px;
+    margin-top: -255px;
+
+}
+.last-stap{
+    width: 1600px;
+    height: 577px;
+    background-color: black;
+    display: flex;
+    gap: 30px;
+    margin-top: 80px;
+}
+.last-title{
+    color: #F8F8F8;
+    font-size: 45px;
+    font-weight: 700;
+    display: flex;
+    margin-left: 230px;
+    margin-top: 15px;
+}
+.last-description{
+    width: 485px;
+    color: #FFF;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    margin-left: 230px; 
+}
+.last-step2{
+ display: grid;
+ justify-content: end;  
+   
+}
+.last-title2{
+    color: #FFF;
+    font-size: 25px;
+    font-weight: 600;
+  margin-left:230px ;
+}
+.email{
+    width: 325px;
+    height: 64px;
+    border-radius: 5px;
+    border: 1px solid #FFF;
+    color: var(--dark-07, #F3F3F3);
+    font-family: Work Sans;
+    font-size: 18px;
+    font-weight: 400;
+    margin-left: 230px;
+    display: grid;
+    justify-items: end;
+}
+.btn{
+    width: 200px;
+    height: 64px;
+    border-radius:5px;
+    background: #005FAC;
+    width: 98px;
+    color: #FFF;
+    font-size: 15px;
+    font-weight: 400;
+}
+.img{
+    margin-left: 230px;
+    right: 15px;
 }
