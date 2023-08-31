@@ -60,3 +60,44 @@
     text-align: center;
     margin-top: 150px;
 }
+.plan-container{
+   gap: 200px;
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   width: 90px;
+   height: 90px;
+   margin-left: 125px;
+  
+}
+.plan{
+    margin-top: 150px;
+}
+.plan-title{
+    font-size: 25px;
+    text-align: center;
+  font-weight: 400px;
+}
+.plan-description{
+    text-align: center;
+    font-size: 20px;
+    font-weight: 500px;
+}
+.pic{
+    margin-top: 250px;
+    margin-left: 98px;
+    height: 300px;
+    width: 1100px;
+    background-size: cover;
+    border-radius: 8px;
+    background-image: url(../images/watch.png)
+}
+.positive{
+    position: absolute;
+}
+.positive-description{
+    text-align: left;
+    color:white;
+    font-size: 50px;
+    width: 450px;
+}
